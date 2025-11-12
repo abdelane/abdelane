@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on quantum optimization benchmarking at https://secquoia.github.io/ as an undergraduate student.
-I'm currenlty learning more about using pyomo for optimization modelling. 
+I'm currently pursuing an MRes in AI/ML at Imperial College London. My work relates to reinforcement learning for process systems engineering applications.
